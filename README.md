@@ -18,7 +18,3 @@ It is for my **upcoming free Recoil course**, [Learn Recoil](https://learnrecoil
 -   🔑 Authentication
 -   🏃 Performance debugging, testing, and improvement
 -   And more...
-
-**Have any other suggestions? Tweet or DM me [@jacques_codes](https://twitter.com/jacques_codes).**
-
-## Sign up for the Recoil course here 👉 https://learnrecoil.com/ 👈 today!
